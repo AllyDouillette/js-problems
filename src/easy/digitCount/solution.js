@@ -1,0 +1,1 @@
+digitCount = ((num) => Math.abs(num).toString().length)

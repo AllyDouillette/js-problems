@@ -1,0 +1,1 @@
+milesTravelled = ((travelDuration, speed) => Math.round(speed * travelDuration / 60))
