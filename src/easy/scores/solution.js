@@ -16,3 +16,5 @@ const min = 3;
 const max = 7;
 
 console.log(ratingsAdjuster(ratings, min, max));
+
+//yeah, I would've done it like that – maybe used Math.max(ratings[i], minThreshold) though
